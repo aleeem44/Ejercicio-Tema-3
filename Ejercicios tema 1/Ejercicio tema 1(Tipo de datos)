@@ -1,0 +1,20 @@
+package packages;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int numero = 3;
+        String palabra = "Hola";
+        long numero2 = 68;
+        boolean verdad = true;
+        double numeroDecimal = 3.1415;
+
+        System.out.println(numero);
+        System.out.println(palabra);
+        System.out.println(numero2);
+        System.out.println(verdad);
+        System.out.println(numeroDecimal);
+
+    }
+}
